@@ -31,20 +31,23 @@ An interactive Power BI dashboard that analyzes loan data to uncover insights in
 - Microsoft Power BI
 - Power Query
 - DAX
+- Google Cloud Services
 - Microsoft Excel
+
+## ☁️ Data Source
+The dataset was accessed through **Google Cloud Services** and analyzed using Power BI.
 
 ## 📸 Dashboard Preview
 
 ### Loan Default & Overview
-![Overview](overview.png.png)
+![Overview](overview.png)
 
 ### Applicant Demographics & Financial Profile
-![Demographics](demographics.png.png)
+![Demographics](demographics.png)
 
 ### Financial Risk Metrics
-![Risk Metrics](risk_metrics.png.png)
+![Risk Metrics](risk_metrics.png)
 
 
 
-⭐ If you found this project helpful, consider starring the repository.
 

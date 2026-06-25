@@ -36,13 +36,15 @@ An interactive Power BI dashboard that analyzes loan data to uncover insights in
 ## 📸 Dashboard Preview
 
 ### Loan Default & Overview
-![Overview](Images/overview.png)
+![Overview](overview.png.png)
 
 ### Applicant Demographics & Financial Profile
-![Demographics](Images/demographics.png)
+![Demographics](demographics.png.png)
 
 ### Financial Risk Metrics
-![Risk Metrics](Images/risk_metrics.png)
+![Risk Metrics](risk_metrics.png.png)
+
+
 
 ⭐ If you found this project helpful, consider starring the repository.
 
